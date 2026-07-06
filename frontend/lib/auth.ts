@@ -1,7 +1,7 @@
 export interface User {
   id: number;
-  name: str;
-  email: str;
+  name: string;
+  email: string;
   is_admin: boolean;
   streak_days: number;
   daily_study_goal_minutes: number;
